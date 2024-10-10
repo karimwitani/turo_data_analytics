@@ -171,36 +171,36 @@ async function buildHarEntry(data, requestId, tabId) {
         request: {
             method: request.request.method,
             url: request.request.url,
-            httpVersion: 'HTTP/1.1',
-            headers: formatHeaders(request.request.headers),
-            queryString: formatQueryString(request.request.url),
-            headersSize: -1,
-            bodySize: -1,
-            postData: request.request.postData
-                ? {
-                    mimeType: request.request.headers['Content-Type'] || '',
-                    text: request.request.postData,
-                }
-                : undefined,
+            // httpVersion: 'HTTP/1.1',
+            // headers: formatHeaders(request.request.headers),
+            // queryString: formatQueryString(request.request.url),
+            // headersSize: -1,
+            // bodySize: -1,
+            // postData: request.request.postData
+            //     ? {
+            //         mimeType: request.request.headers['Content-Type'] || '',
+            //         text: request.request.postData,
+            //     }
+            //     : undefined,
         },
         response: {
             status: response.response.status,
             statusText: response.response.statusText,
-            httpVersion: 'HTTP/1.1',
-            headers: formatHeaders(response.response.headers),
+            // httpVersion: 'HTTP/1.1',
+            // headers: formatHeaders(response.response.headers),
             content: {
-                size: body.length,
-                mimeType: response.response.mimeType,
+                // size: body.length,
+                // mimeType: response.response.mimeType,
                 text: body,
-                encoding: encoding, // Include encoding if applicable
+                // encoding: encoding, // Include encoding if applicable
             },
-            redirectURL: response.response.headers['Location'] || '',
-            headersSize: -1,
-            bodySize: -1,
+            // redirectURL: response.response.headers['Location'] || '',
+            // headersSize: -1,
+            // bodySize: -1,
         },
-        cache: {},
-        timings: response.response.timing || {},
-        pageref: 'page_1',
+        // cache: {},
+        // timings: response.response.timing || {},
+        // pageref: 'page_1',
     };
 }
 

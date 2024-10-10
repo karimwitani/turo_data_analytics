@@ -1,0 +1,3 @@
+- define requirements for fastAPI backend to receive & parse bulk quote data
+- define requirements for ETL pipeline that transforms and load data into database
+- summarise the API model from work so that the FAST API endpoints are well structured
