@@ -1,3 +1,11 @@
 - define requirements for fastAPI backend to receive & parse bulk quote data
 - define requirements for ETL pipeline that transforms and load data into database
 - summarise the API model from work so that the FAST API endpoints are well structured
+- write a README for the chrome extension installation process
+- spike: how to navigate betweenn pages and get data from car specific page
+- UI requriments for displaying data
+    - # number of card being tracked
+    - top 10 cars with most trips, revenue ...
+    - map showing heatmap where cars are located
+- brainstorm how a occupancy tracking algorithm would be designed
+    - pull all possible reservation days --> compare against existing reservation data 
