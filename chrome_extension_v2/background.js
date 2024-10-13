@@ -80,11 +80,9 @@ function onDetach(debuggeeId, reason) {
 // Create HAR log from events
 async function createHarLog(events, tabId) {
     const harLog = {
-        log: {
-            version: '1.2',
-            creator: { name: 'HAR File Recorder', version: '1.0' },
-            entries: []
-        }
+        data_type: "Turo Search Page Results",
+        timestamp: new Date(request.wallTime * 1000).toISOString(),
+        entries: []
     };
 
     const requestMap = {};
@@ -97,8 +95,9 @@ async function createHarLog(events, tabId) {
 
             // Filter requests to include only specific URLs
             if (
-                url.includes('turo.com/api/bulk-quotes/v2') ||
-                url.includes('turo.com/api/v2/search/')
+                // url.includes('turo.com/api/bulk-quotes/v2') ||
+                // url.includes('turo.com/api/v2/search/')
+                url == "https://turo.com/api/v2/search"
             ) {
                 if (!requestMap[requestId]) requestMap[requestId] = {};
                 requestMap[requestId].request = event.params;
@@ -122,7 +121,7 @@ async function createHarLog(events, tabId) {
         if (data.request && data.response) {
             const entry = await buildHarEntry(data, requestId, tabId);
             if (entry) {
-                harLog.log.entries.push(entry);
+                harLog.entries.push(entry);
             }
         } else {
             console.log(`Incomplete data for requestId ${requestId}, skipping.`);
@@ -142,9 +141,12 @@ async function buildHarEntry(data, requestId, tabId) {
     console.log(response.response.url);
     console.log(response);
     console.log(request);
+
     // Get response body
     let body = '';
     let encoding = '';
+    let parsedBody = null; // Variable to hold the parsed JSON
+    
     try {
         const result = await chrome.debugger.sendCommand(
             { tabId },
@@ -154,9 +156,13 @@ async function buildHarEntry(data, requestId, tabId) {
         body = result.body || '';
         if (result.base64Encoded) {
             encoding = 'base64';
-            // Optionally, decode the Base64 string
-            // body = atob(body);
+            // Decode the Base64 string
+            body = atob(body);
         }
+
+        // Parse the JSON string
+        parsedBody = JSON.parse(body);
+        console.log('Parsed response body:', parsedBody);
 
     } catch (error) {
         console.warn('Failed to get response body for', requestId, error);
@@ -166,41 +172,11 @@ async function buildHarEntry(data, requestId, tabId) {
     console.log(`Response body for requestId ${requestId}:`, body);
 
     return {
-        startedDateTime: new Date(request.wallTime * 1000).toISOString(),
-        time: response.response.timing ? response.response.timing.receiveHeadersEnd : 0,
-        request: {
-            method: request.request.method,
-            url: request.request.url,
-            // httpVersion: 'HTTP/1.1',
-            // headers: formatHeaders(request.request.headers),
-            // queryString: formatQueryString(request.request.url),
-            // headersSize: -1,
-            // bodySize: -1,
-            // postData: request.request.postData
-            //     ? {
-            //         mimeType: request.request.headers['Content-Type'] || '',
-            //         text: request.request.postData,
-            //     }
-            //     : undefined,
-        },
-        response: {
-            status: response.response.status,
-            statusText: response.response.statusText,
-            // httpVersion: 'HTTP/1.1',
-            // headers: formatHeaders(response.response.headers),
-            content: {
-                // size: body.length,
-                // mimeType: response.response.mimeType,
-                text: body,
-                // encoding: encoding, // Include encoding if applicable
-            },
-            // redirectURL: response.response.headers['Location'] || '',
-            // headersSize: -1,
-            // bodySize: -1,
-        },
-        // cache: {},
-        // timings: response.response.timing || {},
-        // pageref: 'page_1',
+        request_method: request.request.method,
+        request_url: request.request.url,
+        response_status:response.response.status, 
+        response_status_text: response.response.statusText,
+        response_content : parsedBody
     };
 }
 
