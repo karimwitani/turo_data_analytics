@@ -81,7 +81,7 @@ function onDetach(debuggeeId, reason) {
 async function createHarLog(events, tabId) {
     const harLog = {
         data_type: "Turo Search Page Results",
-        timestamp: new Date(request.wallTime * 1000).toISOString(),
+        timestamp: new Date().toISOString(),
         entries: []
     };
 
