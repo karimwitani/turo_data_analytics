@@ -1,0 +1,2822 @@
+{
+  "data_type": "Turo Search Page Results",
+  "timestamp": "2024-10-13T23:48:54.662Z",
+  "entries": [
+    {
+      "request_method": "POST",
+      "request_url": "https://turo.com/api/v2/search",
+      "response_status": 200,
+      "response_status_text": "",
+      "response_content": {
+        "banner": {
+          "actionText": null,
+          "bannerDesign": {
+            "animationLoopCount": null,
+            "animationURL": null,
+            "clickableURL": null,
+            "designVariant": null,
+            "resizeableIconDarkURL": "https://resources.turo.com/resources/img/banner/thumbs-up-dark__H6f7aeec8335a018494e506131904a399__.jpg",
+            "resizeableIconURL": "https://resources.turo.com/resources/img/banner/thumbs-up__H8e2ff43641228b6c6246c70974174b4a__.jpg",
+            "withBorder": true
+          },
+          "bannerName": "CHECKOUT_MORE_THAN_25_HR",
+          "text": "Don’t stress: you can cancel your trip for free, up to 24 hours before it starts.",
+          "title": null
+        },
+        "dismissibleBanner": null,
+        "makesFilterCount": null,
+        "searchId": "9FyJbenr",
+        "searchLocation": {
+          "appliedRadius": {
+            "unit": "MILES",
+            "value": 38.2182017975829
+          },
+          "country": "US",
+          "isOperational": true,
+          "locationId": null,
+          "name": null,
+          "point": {
+            "lat": 42.4378405,
+            "lng": -78.4751945
+          },
+          "shortName": null,
+          "topPois": [],
+          "type": "POINT"
+        },
+        "totalHits": 56,
+        "vehicles": [
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 61.2,
+              "currency": "USD"
+            },
+            "completedTrips": 14,
+            "estimatedQuote": null,
+            "hostId": 42801905,
+            "id": 2706225,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/Ve-3pJyESBKK7QKKW-O3Og.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/Ve-3pJyESBKK7QKKW-O3Og.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Lackawanna",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 32.07219451118512
+              },
+              "homeLocation": {
+                "lat": 42.82337016041945,
+                "lng": -78.8265809482411
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "lackawanna-ny",
+                "en_GB": "lackawanna-ny",
+                "en_CA": "lackawanna-ny",
+                "en_US": "lackawanna-ny",
+                "en_AU": "lackawanna-ny",
+                "fr_FR": "lackawanna-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Ford",
+            "model": "Explorer",
+            "rating": 4.9167,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2021
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 74.42,
+              "currency": "USD"
+            },
+            "completedTrips": 4,
+            "estimatedQuote": null,
+            "hostId": 35773880,
+            "id": 2684821,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/qr_u6oJoTLm6mORGKGu68A.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/qr_u6oJoTLm6mORGKGu68A.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Cheektowaga",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 33.32987895405703
+              },
+              "homeLocation": {
+                "lat": 42.88234271065046,
+                "lng": -78.73002083192799
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "cheektowaga-ny",
+                "en_GB": "cheektowaga-ny",
+                "en_CA": "cheektowaga-ny",
+                "en_US": "cheektowaga-ny",
+                "en_AU": "cheektowaga-ny",
+                "fr_FR": "cheektowaga-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Jeep",
+            "model": "Grand Cherokee",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2021
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 44.1,
+              "currency": "USD"
+            },
+            "completedTrips": 41,
+            "estimatedQuote": null,
+            "hostId": 27203938,
+            "id": 2601609,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/PkzIlrauSa-OOG1YX3UV6Q.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/PkzIlrauSa-OOG1YX3UV6Q.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Depew",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 35.89793804503363
+              },
+              "homeLocation": {
+                "lat": 42.921227654117125,
+                "lng": -78.7342744380086
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "depew-ny",
+                "en_GB": "depew-ny",
+                "en_CA": "depew-ny",
+                "en_US": "depew-ny",
+                "en_AU": "depew-ny",
+                "fr_FR": "depew-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Toyota",
+            "model": "Camry",
+            "rating": 4.9394,
+            "seoCategory": "CAR",
+            "tags": [],
+            "type": "CAR",
+            "year": 2015
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 73.8,
+              "currency": "USD"
+            },
+            "completedTrips": 15,
+            "estimatedQuote": null,
+            "hostId": 39068283,
+            "id": 2441245,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/0sAt5jvaS024SE2gp9LqfA.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/0sAt5jvaS024SE2gp9LqfA.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 36.895694971383534
+              },
+              "homeLocation": {
+                "lat": 42.93181078872342,
+                "lng": -78.75114290337001
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Hyundai",
+            "model": "Santa Fe Hybrid",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2023
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 71.5,
+              "currency": "USD"
+            },
+            "completedTrips": 1,
+            "estimatedQuote": null,
+            "hostId": 33665307,
+            "id": 2847445,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/_cwidxQpRRqknUDB2H6GOg.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/_cwidxQpRRqknUDB2H6GOg.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 35.898971123246916
+              },
+              "homeLocation": {
+                "lat": 42.91553740874692,
+                "lng": -78.75315689337633
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Kia",
+            "model": "Forte",
+            "rating": 5,
+            "seoCategory": "CAR",
+            "tags": [],
+            "type": "CAR",
+            "year": 2024
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 67.5,
+              "currency": "USD"
+            },
+            "completedTrips": 43,
+            "estimatedQuote": null,
+            "hostId": 28651625,
+            "id": 2405375,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/yGbdPuqLQC-S7H72a4CNkQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/yGbdPuqLQC-S7H72a4CNkQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 36.58236679898905
+              },
+              "homeLocation": {
+                "lat": 42.904164800273,
+                "lng": -78.81622548872771
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Chevrolet",
+            "model": "Trax",
+            "rating": 4.9474,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2024
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 74.25,
+              "currency": "USD"
+            },
+            "completedTrips": 1,
+            "estimatedQuote": null,
+            "hostId": 17274318,
+            "id": 2876397,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/2yGmo9cHRG-w0u7JftvjzQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/2yGmo9cHRG-w0u7JftvjzQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 41.26086532747803
+              },
+              "homeLocation": {
+                "lat": 43.002102597659885,
+                "lng": -78.74132241642131
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Mazda",
+            "model": "CX-30",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2024
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 123.82,
+              "currency": "USD"
+            },
+            "completedTrips": 45,
+            "estimatedQuote": null,
+            "hostId": 32448545,
+            "id": 1987798,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/EIf5kEatTT2tBZrxotGSgA.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/EIf5kEatTT2tBZrxotGSgA.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 37.27688874918019
+              },
+              "homeLocation": {
+                "lat": 42.95377103209429,
+                "lng": -78.68986064326275
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "GMC",
+            "model": "Yukon XL",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2021
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 77.5,
+              "currency": "USD"
+            },
+            "completedTrips": 4,
+            "estimatedQuote": null,
+            "hostId": 33665307,
+            "id": 2830358,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/JiFlWFyfQAe0oGt4Zacixw.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/JiFlWFyfQAe0oGt4Zacixw.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 35.898971123246916
+              },
+              "homeLocation": {
+                "lat": 42.91553740874692,
+                "lng": -78.75315689337633
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Jeep",
+            "model": "Compass",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2024
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 59.93,
+              "currency": "USD"
+            },
+            "completedTrips": 11,
+            "estimatedQuote": null,
+            "hostId": 23036751,
+            "id": 2593762,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/quNFq5APSR6ZRNJeMHUjZg.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/quNFq5APSR6ZRNJeMHUjZg.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Clarence",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 37.92788422197379
+              },
+              "homeLocation": {
+                "lat": 42.97704033951465,
+                "lng": -78.61527020841712
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "clarence-ny",
+                "en_GB": "clarence-ny",
+                "en_CA": "clarence-ny",
+                "en_US": "clarence-ny",
+                "en_AU": "clarence-ny",
+                "fr_FR": "clarence-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Ram",
+            "model": "1500 Classic",
+            "rating": 5,
+            "seoCategory": "TRUCK",
+            "tags": [],
+            "type": "TRUCK",
+            "year": 2021
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 81.18,
+              "currency": "USD"
+            },
+            "completedTrips": 9,
+            "estimatedQuote": null,
+            "hostId": 17274318,
+            "id": 2799650,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/k_sTV6RESW2wDFDItr5dcg.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/k_sTV6RESW2wDFDItr5dcg.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 41.26086532747803
+              },
+              "homeLocation": {
+                "lat": 43.002102597659885,
+                "lng": -78.74132241642131
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Mitsubishi",
+            "model": "Outlander",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2024
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 88.5,
+              "currency": "USD"
+            },
+            "completedTrips": 2,
+            "estimatedQuote": null,
+            "hostId": 33665307,
+            "id": 2837598,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/RHFfUqotSFWive07k5J4hg.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/RHFfUqotSFWive07k5J4hg.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 35.898971123246916
+              },
+              "homeLocation": {
+                "lat": 42.91553740874692,
+                "lng": -78.75315689337633
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Tesla",
+            "model": "Model Y",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [
+              {
+                "label": "App unlock",
+                "type": "TURO_GO"
+              }
+            ],
+            "type": "SUV",
+            "year": 2024
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 80.5,
+              "currency": "USD"
+            },
+            "completedTrips": 12,
+            "estimatedQuote": null,
+            "hostId": 27203938,
+            "id": 2787248,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/HueqP78LR6CifZlE2j0_OQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/HueqP78LR6CifZlE2j0_OQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Lancaster",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 33.629621983840835
+              },
+              "homeLocation": {
+                "lat": 42.90264558788645,
+                "lng": -78.67162501155343
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "lancaster-ny",
+                "en_GB": "lancaster-ny",
+                "en_CA": "lancaster-ny",
+                "en_US": "lancaster-ny",
+                "en_AU": "lancaster-ny",
+                "fr_FR": "lancaster-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Lexus",
+            "model": "GX",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2018
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 66.39,
+              "currency": "USD"
+            },
+            "completedTrips": 62,
+            "estimatedQuote": null,
+            "hostId": 28651625,
+            "id": 1872747,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/feC5NlXkRvOhfW34spq1WA.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/feC5NlXkRvOhfW34spq1WA.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 36.529694400610076
+              },
+              "homeLocation": {
+                "lat": 42.90375045862935,
+                "lng": -78.8150822665236
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Toyota",
+            "model": "Camry",
+            "rating": 4.8704,
+            "seoCategory": "CAR",
+            "tags": [],
+            "type": "CAR",
+            "year": 2023
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 77.25,
+              "currency": "USD"
+            },
+            "completedTrips": 3,
+            "estimatedQuote": null,
+            "hostId": 42669075,
+            "id": 2696779,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/7dOuR_pHT6OlWoTa-xuhwg.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/7dOuR_pHT6OlWoTa-xuhwg.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Akron",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 42.89372041908663
+              },
+              "homeLocation": {
+                "lat": 43.05820092534782,
+                "lng": -78.50727724863118
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "akron-ny",
+                "en_GB": "akron-ny",
+                "en_CA": "akron-ny",
+                "en_US": "akron-ny",
+                "en_AU": "akron-ny",
+                "fr_FR": "akron-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Tesla",
+            "model": "Model X",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2021
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 44.1,
+              "currency": "USD"
+            },
+            "completedTrips": 24,
+            "estimatedQuote": null,
+            "hostId": 27203938,
+            "id": 2703751,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/zSO5AGhUSkmXRFm-j2TJIQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/zSO5AGhUSkmXRFm-j2TJIQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Depew",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 35.89793804503363
+              },
+              "homeLocation": {
+                "lat": 42.921227654117125,
+                "lng": -78.7342744380086
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "depew-ny",
+                "en_GB": "depew-ny",
+                "en_CA": "depew-ny",
+                "en_US": "depew-ny",
+                "en_AU": "depew-ny",
+                "fr_FR": "depew-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Ford",
+            "model": "Escape",
+            "rating": 4.9524,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2016
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 74.83,
+              "currency": "USD"
+            },
+            "completedTrips": 3,
+            "estimatedQuote": null,
+            "hostId": 33546674,
+            "id": 2838832,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/UZBlyVdRTnaCwhMOIAKGGQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/UZBlyVdRTnaCwhMOIAKGGQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Tonawanda",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 44.519495194172485
+              },
+              "homeLocation": {
+                "lat": 43.0273904976089,
+                "lng": -78.82917387942686
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "tonawanda-ny",
+                "en_GB": "tonawanda-ny",
+                "en_CA": "tonawanda-ny",
+                "en_US": "tonawanda-ny",
+                "en_AU": "tonawanda-ny",
+                "fr_FR": "tonawanda-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Toyota",
+            "model": "4Runner",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2021
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 94.5,
+              "currency": "USD"
+            },
+            "completedTrips": 0,
+            "estimatedQuote": null,
+            "hostId": 30105940,
+            "id": 2897641,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/Hs_Io4Z_TNmGMVdhs-eBHA.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/Hs_Io4Z_TNmGMVdhs-eBHA.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": true,
+            "location": {
+              "city": "Tonawanda",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 44.36411658968468
+              },
+              "homeLocation": {
+                "lat": 43.00942730801571,
+                "lng": -78.87338195939459
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "tonawanda-ny",
+                "en_GB": "tonawanda-ny",
+                "en_CA": "tonawanda-ny",
+                "en_US": "tonawanda-ny",
+                "en_AU": "tonawanda-ny",
+                "fr_FR": "tonawanda-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Chevrolet",
+            "model": "Tahoe",
+            "rating": null,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2024
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 69.5,
+              "currency": "USD"
+            },
+            "completedTrips": 19,
+            "estimatedQuote": null,
+            "hostId": 33665307,
+            "id": 2676832,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/58Qy64mISJWeohPCVWmnZg.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/58Qy64mISJWeohPCVWmnZg.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 35.898971123246916
+              },
+              "homeLocation": {
+                "lat": 42.91553740874692,
+                "lng": -78.75315689337633
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Volkswagen",
+            "model": "Jetta",
+            "rating": 4.9375,
+            "seoCategory": "CAR",
+            "tags": [
+              {
+                "label": "App unlock",
+                "type": "TURO_GO"
+              }
+            ],
+            "type": "CAR",
+            "year": 2024
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 57.6,
+              "currency": "USD"
+            },
+            "completedTrips": 50,
+            "estimatedQuote": null,
+            "hostId": 28651625,
+            "id": 2109293,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/HcHs8N4URy-zZa8k083VvQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/HcHs8N4URy-zZa8k083VvQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 36.58236679898905
+              },
+              "homeLocation": {
+                "lat": 42.904164800273,
+                "lng": -78.81622548872771
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Chevrolet",
+            "model": "Equinox",
+            "rating": 4.9545,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2020
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 61.75,
+              "currency": "USD"
+            },
+            "completedTrips": 3,
+            "estimatedQuote": null,
+            "hostId": 17493000,
+            "id": 2806794,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/Apd6joM8RmmMvX6kqbglOg.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/Apd6joM8RmmMvX6kqbglOg.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 40.46211246318975
+              },
+              "homeLocation": {
+                "lat": 42.956428669957106,
+                "lng": -78.84536011112168
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Mazda",
+            "model": "CX-5",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2018
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 75,
+              "currency": "USD"
+            },
+            "completedTrips": 45,
+            "estimatedQuote": null,
+            "hostId": 28155410,
+            "id": 1766076,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/vCuXv40eS_mM57R7k9CUHQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/vCuXv40eS_mM57R7k9CUHQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Williamsville",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 38.2182017975829
+              },
+              "homeLocation": {
+                "lat": 42.96532230316093,
+                "lng": -78.70177006410725
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "williamsville-ny",
+                "en_GB": "williamsville-ny",
+                "en_CA": "williamsville-ny",
+                "en_US": "williamsville-ny",
+                "en_AU": "williamsville-ny",
+                "fr_FR": "williamsville-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Ford",
+            "model": "Maverick",
+            "rating": 5,
+            "seoCategory": "TRUCK",
+            "tags": [],
+            "type": "TRUCK",
+            "year": 2022
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 58.5,
+              "currency": "USD"
+            },
+            "completedTrips": 24,
+            "estimatedQuote": null,
+            "hostId": 33546674,
+            "id": 2589585,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/A0VKnSgVT0u6P1XC3B34Vw.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/A0VKnSgVT0u6P1XC3B34Vw.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Tonawanda",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 44.519495194172485
+              },
+              "homeLocation": {
+                "lat": 43.0273904976089,
+                "lng": -78.82917387942686
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "tonawanda-ny",
+                "en_GB": "tonawanda-ny",
+                "en_CA": "tonawanda-ny",
+                "en_US": "tonawanda-ny",
+                "en_AU": "tonawanda-ny",
+                "fr_FR": "tonawanda-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Toyota",
+            "model": "Corolla",
+            "rating": 4.7,
+            "seoCategory": "CAR",
+            "tags": [],
+            "type": "CAR",
+            "year": 2024
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 59.53,
+              "currency": "USD"
+            },
+            "completedTrips": 1,
+            "estimatedQuote": null,
+            "hostId": 42580706,
+            "id": 2878435,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/5k1mWo65Q-2LLVw00T86Qw.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/5k1mWo65Q-2LLVw00T86Qw.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": true,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 39.48362258394454
+              },
+              "homeLocation": {
+                "lat": 42.95588147551695,
+                "lng": -78.80342389073758
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Jeep",
+            "model": "Cherokee",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2019
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 109.25,
+              "currency": "USD"
+            },
+            "completedTrips": 33,
+            "estimatedQuote": null,
+            "hostId": 15689342,
+            "id": 1753784,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/8x-pv1JBRkSfLwR1N8-QLQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/8x-pv1JBRkSfLwR1N8-QLQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 40.782871264500905
+              },
+              "homeLocation": {
+                "lat": 42.95203415631249,
+                "lng": -78.86955557748276
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Dodge",
+            "model": "Durango",
+            "rating": 4.963,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2022
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 89,
+              "currency": "USD"
+            },
+            "completedTrips": 63,
+            "estimatedQuote": null,
+            "hostId": 28155410,
+            "id": 1701605,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/DTSLu0fjQ8yRfFhy1FMVQw.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/DTSLu0fjQ8yRfFhy1FMVQw.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Williamsville",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 38.2182017975829
+              },
+              "homeLocation": {
+                "lat": 42.96532230316093,
+                "lng": -78.70177006410725
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "williamsville-ny",
+                "en_GB": "williamsville-ny",
+                "en_CA": "williamsville-ny",
+                "en_US": "williamsville-ny",
+                "en_AU": "williamsville-ny",
+                "fr_FR": "williamsville-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Tesla",
+            "model": "Model 3",
+            "rating": 4.9216,
+            "seoCategory": "CAR",
+            "tags": [],
+            "type": "CAR",
+            "year": 2022
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 68.08,
+              "currency": "USD"
+            },
+            "completedTrips": 41,
+            "estimatedQuote": null,
+            "hostId": 28651625,
+            "id": 2130275,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/Pwh-e5m-QdirJV4EgIrqMA.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/Pwh-e5m-QdirJV4EgIrqMA.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 36.58236679898905
+              },
+              "homeLocation": {
+                "lat": 42.904164800273,
+                "lng": -78.81622548872771
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Chrysler",
+            "model": "Voyager",
+            "rating": 4.9697,
+            "seoCategory": "MINIVAN",
+            "tags": [],
+            "type": "PASSENGER_MINIVAN",
+            "year": 2021
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 53.99,
+              "currency": "USD"
+            },
+            "completedTrips": 35,
+            "estimatedQuote": null,
+            "hostId": 3107618,
+            "id": 2082552,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/agz3_55ZQImo4dKVFc19mA.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/agz3_55ZQImo4dKVFc19mA.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 37.05961825150953
+              },
+              "homeLocation": {
+                "lat": 42.90512511325153,
+                "lng": -78.83333436459628
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Subaru",
+            "model": "XV Crosstrek",
+            "rating": 4.931,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2014
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 60,
+              "currency": "USD"
+            },
+            "completedTrips": 7,
+            "estimatedQuote": null,
+            "hostId": 29182736,
+            "id": 2852161,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/UBRI-dfESv-Wb17oKmHE7g.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/UBRI-dfESv-Wb17oKmHE7g.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Grand Island",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 47.41578709730811
+              },
+              "homeLocation": {
+                "lat": 43.01793417946488,
+                "lng": -78.97434093016703
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "grand-island-ny",
+                "en_GB": "grand-island-ny",
+                "en_CA": "grand-island-ny",
+                "en_US": "grand-island-ny",
+                "en_AU": "grand-island-ny",
+                "fr_FR": "grand-island-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Dodge",
+            "model": "Grand Caravan",
+            "rating": 5,
+            "seoCategory": "MINIVAN",
+            "tags": [],
+            "type": "PASSENGER_MINIVAN",
+            "year": 2019
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 47.32,
+              "currency": "USD"
+            },
+            "completedTrips": 0,
+            "estimatedQuote": null,
+            "hostId": 15209926,
+            "id": 2879215,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/sBEpnEwYRVGDvePy3xY0zw.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/sBEpnEwYRVGDvePy3xY0zw.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": true,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 37.943247467026694
+              },
+              "homeLocation": {
+                "lat": 42.91143131743707,
+                "lng": -78.85332661718503
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "BMW",
+            "model": "i3",
+            "rating": null,
+            "seoCategory": "CAR",
+            "tags": [],
+            "type": "CAR",
+            "year": 2016
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 79,
+              "currency": "USD"
+            },
+            "completedTrips": 1,
+            "estimatedQuote": null,
+            "hostId": 33546674,
+            "id": 2891544,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/MUxkhzm6SsK1wv7U__ENsw.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/MUxkhzm6SsK1wv7U__ENsw.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": true,
+            "location": {
+              "city": "Tonawanda",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 44.519495194172485
+              },
+              "homeLocation": {
+                "lat": 43.0273904976089,
+                "lng": -78.82917387942686
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "tonawanda-ny",
+                "en_GB": "tonawanda-ny",
+                "en_CA": "tonawanda-ny",
+                "en_US": "tonawanda-ny",
+                "en_AU": "tonawanda-ny",
+                "fr_FR": "tonawanda-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Volkswagen",
+            "model": "Tiguan",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [
+              {
+                "label": "App unlock",
+                "type": "TURO_GO"
+              }
+            ],
+            "type": "SUV",
+            "year": 2024
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 66.83,
+              "currency": "USD"
+            },
+            "completedTrips": 64,
+            "estimatedQuote": null,
+            "hostId": 33546674,
+            "id": 2181532,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/JJgIMMIDTiihheu9wEH6Tw.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/JJgIMMIDTiihheu9wEH6Tw.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Tonawanda",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 44.519495194172485
+              },
+              "homeLocation": {
+                "lat": 43.0273904976089,
+                "lng": -78.82917387942686
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "tonawanda-ny",
+                "en_GB": "tonawanda-ny",
+                "en_CA": "tonawanda-ny",
+                "en_US": "tonawanda-ny",
+                "en_AU": "tonawanda-ny",
+                "fr_FR": "tonawanda-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Mitsubishi",
+            "model": "Outlander",
+            "rating": 4.9184,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2023
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 99,
+              "currency": "USD"
+            },
+            "completedTrips": 36,
+            "estimatedQuote": null,
+            "hostId": 33546674,
+            "id": 2219655,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/vHB-U6jnS_yzLs-SVDqaDQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/vHB-U6jnS_yzLs-SVDqaDQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Tonawanda",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 44.519495194172485
+              },
+              "homeLocation": {
+                "lat": 43.0273904976089,
+                "lng": -78.82917387942686
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "tonawanda-ny",
+                "en_GB": "tonawanda-ny",
+                "en_CA": "tonawanda-ny",
+                "en_US": "tonawanda-ny",
+                "en_AU": "tonawanda-ny",
+                "fr_FR": "tonawanda-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Nissan",
+            "model": "Pathfinder",
+            "rating": 4.8519,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2023
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 49.7,
+              "currency": "USD"
+            },
+            "completedTrips": 0,
+            "estimatedQuote": null,
+            "hostId": 27203938,
+            "id": 2900032,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/wgVUdDEUQJqfMjVqqypQLg.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/wgVUdDEUQJqfMjVqqypQLg.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": true,
+            "location": {
+              "city": "Lancaster",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 33.629621983840835
+              },
+              "homeLocation": {
+                "lat": 42.90264558788645,
+                "lng": -78.67162501155343
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "lancaster-ny",
+                "en_GB": "lancaster-ny",
+                "en_CA": "lancaster-ny",
+                "en_US": "lancaster-ny",
+                "en_AU": "lancaster-ny",
+                "fr_FR": "lancaster-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Nissan",
+            "model": "LEAF",
+            "rating": null,
+            "seoCategory": "CAR",
+            "tags": [],
+            "type": "CAR",
+            "year": 2018
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 49.5,
+              "currency": "USD"
+            },
+            "completedTrips": 29,
+            "estimatedQuote": null,
+            "hostId": 4111519,
+            "id": 2638733,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/xj_az0eET5yDGvcnfy9BCA.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/xj_az0eET5yDGvcnfy9BCA.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 38.60349751019988
+              },
+              "homeLocation": {
+                "lat": 42.931903957440156,
+                "lng": -78.83010489299886
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "GMC",
+            "model": "Terrain",
+            "rating": 4.72,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2016
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 47.1,
+              "currency": "USD"
+            },
+            "completedTrips": 18,
+            "estimatedQuote": null,
+            "hostId": 39768500,
+            "id": 2652802,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/1Jv9jN1aRaeUm4c3sMS93Q.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/1Jv9jN1aRaeUm4c3sMS93Q.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 36.9614036305944
+              },
+              "homeLocation": {
+                "lat": 42.903835367791906,
+                "lng": -78.83250543996796
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Ford",
+            "model": "Escape",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2012
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 58,
+              "currency": "USD"
+            },
+            "completedTrips": 47,
+            "estimatedQuote": null,
+            "hostId": 26688978,
+            "id": 2127412,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/c52k2g7mTX6ktSgxqRjbwg.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/c52k2g7mTX6ktSgxqRjbwg.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 41.48575578899567
+              },
+              "homeLocation": {
+                "lat": 42.94653586227901,
+                "lng": -78.90917560892723
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Chevrolet",
+            "model": "Cruze",
+            "rating": 4.9487,
+            "seoCategory": "CAR",
+            "tags": [],
+            "type": "CAR",
+            "year": 2018
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 48.15,
+              "currency": "USD"
+            },
+            "completedTrips": 2,
+            "estimatedQuote": null,
+            "hostId": 4111519,
+            "id": 2857907,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/kSM6pJw7TeKmikc8OYQzkg.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/kSM6pJw7TeKmikc8OYQzkg.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 38.623124476931714
+              },
+              "homeLocation": {
+                "lat": 42.93191451413762,
+                "lng": -78.83090460827155
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Chevrolet",
+            "model": "Equinox",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2016
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 53.69,
+              "currency": "USD"
+            },
+            "completedTrips": 56,
+            "estimatedQuote": null,
+            "hostId": 35840357,
+            "id": 2216301,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/bc76N32TSDOhEewYeBURMg.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/bc76N32TSDOhEewYeBURMg.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 36.49480352830334
+              },
+              "homeLocation": {
+                "lat": 42.923495658200466,
+                "lng": -78.75769420086853
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Ford",
+            "model": "Escape",
+            "rating": 4.9412,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2014
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 69,
+              "currency": "USD"
+            },
+            "completedTrips": 37,
+            "estimatedQuote": null,
+            "hostId": 17274318,
+            "id": 1909401,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/DoZ3WCdsT9Ka1PjRSKE6zw.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/DoZ3WCdsT9Ka1PjRSKE6zw.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 41.26086532747803
+              },
+              "homeLocation": {
+                "lat": 43.002102597659885,
+                "lng": -78.74132241642131
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Honda",
+            "model": "Odyssey",
+            "rating": 4.9688,
+            "seoCategory": "MINIVAN",
+            "tags": [],
+            "type": "PASSENGER_MINIVAN",
+            "year": 2014
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 111.91,
+              "currency": "USD"
+            },
+            "completedTrips": 33,
+            "estimatedQuote": null,
+            "hostId": 33061905,
+            "id": 2022933,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/oRvwYXrkS8qL02vW5OL7DA.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/oRvwYXrkS8qL02vW5OL7DA.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "East Amherst",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 41.239024289265075
+              },
+              "homeLocation": {
+                "lat": 43.01390875289995,
+                "lng": -78.6877738071905
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "east-amherst-ny",
+                "en_GB": "east-amherst-ny",
+                "en_CA": "east-amherst-ny",
+                "en_US": "east-amherst-ny",
+                "en_AU": "east-amherst-ny",
+                "fr_FR": "east-amherst-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Jeep",
+            "model": "Wrangler Unlimited",
+            "rating": 5,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2021
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 55.39,
+              "currency": "USD"
+            },
+            "completedTrips": 20,
+            "estimatedQuote": null,
+            "hostId": 15172022,
+            "id": 2660956,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/gjw383J-Te2SE4hA7kN5qw.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/gjw383J-Te2SE4hA7kN5qw.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Grand Island",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 47.4713591420998
+              },
+              "homeLocation": {
+                "lat": 43.01920710748841,
+                "lng": -78.97365152252314
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "grand-island-ny",
+                "en_GB": "grand-island-ny",
+                "en_CA": "grand-island-ny",
+                "en_US": "grand-island-ny",
+                "en_AU": "grand-island-ny",
+                "fr_FR": "grand-island-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Mercedes-Benz",
+            "model": "C-Class",
+            "rating": 5,
+            "seoCategory": "CAR",
+            "tags": [],
+            "type": "CAR",
+            "year": 2012
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 48.9,
+              "currency": "USD"
+            },
+            "completedTrips": 46,
+            "estimatedQuote": null,
+            "hostId": 4111519,
+            "id": 2536720,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/m2QHSOZBTsuUILm1lO5p8g.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/m2QHSOZBTsuUILm1lO5p8g.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 38.60349751019988
+              },
+              "homeLocation": {
+                "lat": 42.931903957440156,
+                "lng": -78.83010489299886
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Chevrolet",
+            "model": "Equinox",
+            "rating": 4.8537,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2015
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 495,
+              "currency": "USD"
+            },
+            "completedTrips": 2,
+            "estimatedQuote": null,
+            "hostId": 41724703,
+            "id": 2813623,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/xeazEioZSgehC1kDqqkHYQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/xeazEioZSgehC1kDqqkHYQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Cheektowaga",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 33.32987895405703
+              },
+              "homeLocation": {
+                "lat": 42.88234271065046,
+                "lng": -78.73002083192799
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "cheektowaga-ny",
+                "en_GB": "cheektowaga-ny",
+                "en_CA": "cheektowaga-ny",
+                "en_US": "cheektowaga-ny",
+                "en_AU": "cheektowaga-ny",
+                "fr_FR": "cheektowaga-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Tesla",
+            "model": "Cybertruck",
+            "rating": 5,
+            "seoCategory": "TRUCK",
+            "tags": [],
+            "type": "TRUCK",
+            "year": 2024
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 48,
+              "currency": "USD"
+            },
+            "completedTrips": 48,
+            "estimatedQuote": null,
+            "hostId": 4111519,
+            "id": 2533413,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/0NXa6whET8uArwWCd5ax5w.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/0NXa6whET8uArwWCd5ax5w.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 38.60349751019988
+              },
+              "homeLocation": {
+                "lat": 42.931903957440156,
+                "lng": -78.83010489299886
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Chevrolet",
+            "model": "Equinox",
+            "rating": 4.8056,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2014
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 99.75,
+              "currency": "USD"
+            },
+            "completedTrips": 19,
+            "estimatedQuote": null,
+            "hostId": 15689342,
+            "id": 2374547,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/oq7Sc-_8TWiPB7haTOnWcQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/oq7Sc-_8TWiPB7haTOnWcQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 40.782871264500905
+              },
+              "homeLocation": {
+                "lat": 42.95203415631249,
+                "lng": -78.86955557748276
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Chrysler",
+            "model": "300",
+            "rating": 4.8824,
+            "seoCategory": "CAR",
+            "tags": [],
+            "type": "CAR",
+            "year": 2023
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 45.6,
+              "currency": "USD"
+            },
+            "completedTrips": 67,
+            "estimatedQuote": null,
+            "hostId": 26688978,
+            "id": 1816317,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/HV6_RRb_TZy3pxJWtRwtxQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/HV6_RRb_TZy3pxJWtRwtxQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 41.43927238258766
+              },
+              "homeLocation": {
+                "lat": 42.94604707777552,
+                "lng": -78.90851138956758
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Ford",
+            "model": "Escape",
+            "rating": 4.8333,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2011
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 47.55,
+              "currency": "USD"
+            },
+            "completedTrips": 121,
+            "estimatedQuote": null,
+            "hostId": 4111519,
+            "id": 1700102,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/w01mbMAxTkO3ugBf8rEOiQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/w01mbMAxTkO3ugBf8rEOiQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 38.59927465939763
+              },
+              "homeLocation": {
+                "lat": 42.931721564025175,
+                "lng": -78.83039595521451
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Chevrolet",
+            "model": "Equinox",
+            "rating": 4.828,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2013
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 119,
+              "currency": "USD"
+            },
+            "completedTrips": 40,
+            "estimatedQuote": null,
+            "hostId": 33546674,
+            "id": 2052440,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/KPpK77iMTRSbRYDmdgAPJA.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/KPpK77iMTRSbRYDmdgAPJA.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Tonawanda",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 44.519495194172485
+              },
+              "homeLocation": {
+                "lat": 43.0273904976089,
+                "lng": -78.82917387942686
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "tonawanda-ny",
+                "en_GB": "tonawanda-ny",
+                "en_CA": "tonawanda-ny",
+                "en_US": "tonawanda-ny",
+                "en_AU": "tonawanda-ny",
+                "fr_FR": "tonawanda-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Chevrolet",
+            "model": "Tahoe",
+            "rating": 4.8929,
+            "seoCategory": "SUV",
+            "tags": [
+              {
+                "label": "App unlock",
+                "type": "TURO_GO"
+              }
+            ],
+            "type": "SUV",
+            "year": 2023
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 44.2,
+              "currency": "USD"
+            },
+            "completedTrips": 0,
+            "estimatedQuote": null,
+            "hostId": 45098348,
+            "id": 2865052,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/zdf7bcS6Rw-zGmNVe0jgFg.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/zdf7bcS6Rw-zGmNVe0jgFg.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Depew",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 35.53228500203927
+              },
+              "homeLocation": {
+                "lat": 42.91649511797104,
+                "lng": -78.73096451929408
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "depew-ny",
+                "en_GB": "depew-ny",
+                "en_CA": "depew-ny",
+                "en_US": "depew-ny",
+                "en_AU": "depew-ny",
+                "fr_FR": "depew-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Jeep",
+            "model": "Patriot",
+            "rating": null,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2014
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 104.66,
+              "currency": "USD"
+            },
+            "completedTrips": 0,
+            "estimatedQuote": null,
+            "hostId": 6888888,
+            "id": 2758824,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/wl-NCfDqRFm9M7dGQb47HA.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/wl-NCfDqRFm9M7dGQb47HA.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Buffalo",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 41.49533204318117
+              },
+              "homeLocation": {
+                "lat": 42.963224172448406,
+                "lng": -78.87110568921594
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "buffalo-ny",
+                "en_GB": "buffalo-ny",
+                "en_CA": "buffalo-ny",
+                "en_US": "buffalo-ny",
+                "en_AU": "buffalo-ny",
+                "fr_FR": "buffalo-ny"
+              },
+              "state": "NY"
+            },
+            "make": "GMC",
+            "model": "Yukon",
+            "rating": null,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2018
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 250.39,
+              "currency": "USD"
+            },
+            "completedTrips": 7,
+            "estimatedQuote": null,
+            "hostId": 1588048,
+            "id": 2635261,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/kTF59GUFQtmRbTaWWjMIXA.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/kTF59GUFQtmRbTaWWjMIXA.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Tonawanda",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 43.22449570958748
+              },
+              "homeLocation": {
+                "lat": 42.98211169509072,
+                "lng": -78.8949689809948
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "tonawanda-ny",
+                "en_GB": "tonawanda-ny",
+                "en_CA": "tonawanda-ny",
+                "en_US": "tonawanda-ny",
+                "en_AU": "tonawanda-ny",
+                "fr_FR": "tonawanda-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Porsche",
+            "model": "Macan",
+            "rating": 4.3333,
+            "seoCategory": "SUV",
+            "tags": [],
+            "type": "SUV",
+            "year": 2017
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 44.33,
+              "currency": "USD"
+            },
+            "completedTrips": 3,
+            "estimatedQuote": null,
+            "hostId": 30105940,
+            "id": 2811400,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/0DXBOhDPQouO9ER806PZGQ.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/0DXBOhDPQouO9ER806PZGQ.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Tonawanda",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 44.36411658968468
+              },
+              "homeLocation": {
+                "lat": 43.00942730801571,
+                "lng": -78.87338195939459
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "tonawanda-ny",
+                "en_GB": "tonawanda-ny",
+                "en_CA": "tonawanda-ny",
+                "en_US": "tonawanda-ny",
+                "en_AU": "tonawanda-ny",
+                "fr_FR": "tonawanda-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Ford",
+            "model": "Focus",
+            "rating": 4,
+            "seoCategory": "CAR",
+            "tags": [],
+            "type": "CAR",
+            "year": 2014
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 310.25,
+              "currency": "USD"
+            },
+            "completedTrips": 1,
+            "estimatedQuote": null,
+            "hostId": 9906094,
+            "id": 2136372,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/tuiQ0o4zQ9uL-FImM5wRXw.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/tuiQ0o4zQ9uL-FImM5wRXw.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": false,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Orchard Park",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 24.66591792663175
+              },
+              "homeLocation": {
+                "lat": 42.75596958254191,
+                "lng": -78.6952408970036
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "orchard-park-ny",
+                "en_GB": "orchard-park-ny",
+                "en_CA": "orchard-park-ny",
+                "en_US": "orchard-park-ny",
+                "en_AU": "orchard-park-ny",
+                "fr_FR": "orchard-park-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Polaris",
+            "model": "Slingshot",
+            "rating": 5,
+            "seoCategory": "CAR",
+            "tags": [],
+            "type": "CAR",
+            "year": 2022
+          },
+          {
+            "availability": null,
+            "avgDailyPrice": {
+              "amount": 58.95,
+              "currency": "USD"
+            },
+            "completedTrips": 29,
+            "estimatedQuote": null,
+            "hostId": 23036751,
+            "id": 2397961,
+            "images": [
+              {
+                "originalImageUrl": "https://images.turo.com/media/vehicle/images/gsBNc2IqSp6a2TQlsuzV_g.jpg",
+                "resizeableUrlTemplate": "https://images.turo.com/media/vehicle/images/gsBNc2IqSp6a2TQlsuzV_g.{width}x{height}.jpg"
+              }
+            ],
+            "isAllStarHost": true,
+            "isFavoritedBySearcher": false,
+            "isNewListing": false,
+            "location": {
+              "city": "Clarence",
+              "country": "US",
+              "distance": {
+                "unit": "MILES",
+                "value": 37.92788422197379
+              },
+              "homeLocation": {
+                "lat": 42.97704033951465,
+                "lng": -78.61527020841712
+              },
+              "isDelivery": false,
+              "locationId": null,
+              "locationSlugs": {
+                "fr_CA": "clarence-ny",
+                "en_GB": "clarence-ny",
+                "en_CA": "clarence-ny",
+                "en_US": "clarence-ny",
+                "en_AU": "clarence-ny",
+                "fr_FR": "clarence-ny"
+              },
+              "state": "NY"
+            },
+            "make": "Ram",
+            "model": "1500 Classic",
+            "rating": 4.963,
+            "seoCategory": "TRUCK",
+            "tags": [],
+            "type": "TRUCK",
+            "year": 2021
+          }
+        ]
+      }
+    }
+  ]
+}
