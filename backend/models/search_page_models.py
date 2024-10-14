@@ -124,7 +124,7 @@ class VehicleSearchModel(BaseModel):
     location: Location
     make: str
     model: str
-    rating: float
+    rating: Optional[float]
     seoCategory: str
     tags: List[Tag]
     type: str

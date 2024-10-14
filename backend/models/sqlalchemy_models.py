@@ -1,5 +1,6 @@
-# models.py
-from sqlalchemy import Column, Integer, Boolean, String, DateTime, Float, ForeignKey
+import datetime
+
+from sqlalchemy import Column, Integer, Boolean, String, DateTime, Float, ForeignKey, event
 from sqlalchemy.orm import relationship
 from sqlalchemy.ext.declarative import declarative_base
 
@@ -17,6 +18,18 @@ class Item(Base):
 class AuditableRow():
     record_create = Column(DateTime)
     record_update = Column(DateTime)
+
+# The below two events drive automatic timestamp creation/update for all subclasses of AuditableRow
+@event.listens_for(AuditableRow, 'before_insert', propagate=True)
+def set_created_at(mapper, connection, target):
+    now = datetime.datetime.now(datetime.timezone.utc)
+    target.record_create = now
+    target.record_update = now
+
+@event.listens_for(AuditableRow, 'before_update', propagate=True)
+def set_updated_at(mapper, connection, target):
+    target.record_update = datetime.datetime.now(datetime.timezone.utc)
+
 
 class Vehicle(Base, AuditableRow):
     __tablename__= 'vehicles'
