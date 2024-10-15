@@ -1,4 +1,6 @@
-from datetime import datetime
+import datetime
+from pprint import pprint
+import sys
 
 from fastapi import FastAPI, HTTPException, Depends
 
@@ -8,8 +10,9 @@ from sqlalchemy.exc import IntegrityError
 
 
 from database import async_session
-from models.sqlalchemy_models import Item, Vehicle, BookingSummaries
+from models.sqlalchemy_models import Item, Vehicle, BookingSummaries, BookingDetails
 from models.search_page_models import TuroSearchRequestModel
+from models.daily_pricing_models import DailyPricingRequestModel
 
 
 # Dependency
@@ -115,6 +118,37 @@ async def create_booking_summaries(
         raise HTTPException(status_code=400, detail=str(e))
 
     return {"message": f"Added {len(booking_summaries_to_add)} booking summaries to the database."}
+
+
+@app.post("/booking_details")
+async def create_booking_details(
+    request_model: DailyPricingRequestModel,
+    db: AsyncSession = Depends(get_db)
+):
+    booking_details_to_add = []
+
+    try:
+        vehicle_id = request_model.vehicle_id
+        for daily_pricing_response in request_model.dailyPricingResponses:
+            # if the car is unavailable this day then it was booked
+            if daily_pricing_response.wholeDayUnavailable:
+                booking_detail = BookingDetails(
+                        vehicle_id = vehicle_id,
+                        date = daily_pricing_response.date,
+                        price = daily_pricing_response.priceWithCurrency.amount,
+                        currency = daily_pricing_response.priceWithCurrency.currencyCode,
+                )
+                pprint(booking_detail.__dict__)
+                booking_details_to_add.append(booking_detail)
+            
+        db.add_all(booking_details_to_add)
+        await db.commit()
+
+    except Exception as e:
+        await db.rollback()
+        raise HTTPException(status_code=400, detail=str(e))
+    
+    return {"message": f"Added {len(booking_details_to_add)} booking details to the database."}
 
 
 if __name__ == "__main__":

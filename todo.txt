@@ -9,3 +9,6 @@
     - map showing heatmap where cars are located
 - brainstorm how a occupancy tracking algorithm would be designed
     - pull all possible reservation days --> compare against existing reservation data 
+- Add a combo index on BookingSummaries using id and new field, record_date. 
+    - this comes from the need to ensure we don't upload booking summaries for the same car  multiple times in the same day
+

@@ -130,3 +130,6 @@ Exmple data result
   ]
 }
 ```
+
+## Extracting car occupancy and pricing history
+

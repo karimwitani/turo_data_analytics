@@ -1,6 +1,6 @@
 import datetime
 
-from sqlalchemy import Column, Integer, Boolean, String, DateTime, Float, ForeignKey, event
+from sqlalchemy import Column, Integer, Boolean, String, DateTime, Float, Date, ForeignKey, event, UniqueConstraint
 from sqlalchemy.orm import relationship
 from sqlalchemy.ext.declarative import declarative_base
 
@@ -35,13 +35,15 @@ class Vehicle(Base, AuditableRow):
     __tablename__= 'vehicles'
     
     id = Column(Integer,  primary_key=True, index=True)
+    host_id = Column(Integer)
+    
     car_make = Column(String)
     car_model = Column(String)
     car_type = Column(String)
     car_category = Column(String)
     car_year = Column(Integer)
     
-    host_id = Column(Integer)
+    listing_created_date = Column(Date, nullable=True)
 
     location_city = Column(String)
     location_state = Column(String)
@@ -53,6 +55,13 @@ class Vehicle(Base, AuditableRow):
     # Establish relationship with BookingSummaries
     booking_summaries = relationship(
         "BookingSummaries",
+        back_populates="vehicle",
+        cascade="all, delete-orphan"
+    )
+
+    # Establish relationship with BookingSummaries
+    booking_details = relationship(
+        "BookingDetails",
         back_populates="vehicle",
         cascade="all, delete-orphan"
     )
@@ -70,4 +79,24 @@ class BookingSummaries(Base, AuditableRow):
     vehicle = relationship(
         "Vehicle",
         back_populates="booking_summaries"
+    )
+
+class BookingDetails(Base, AuditableRow):
+    __tablename__ = 'booking_details'
+    id = Column(Integer, primary_key=True)
+    vehicle_id = Column(Integer, ForeignKey('vehicles.id'), nullable=False)
+
+    date = Column(Date)
+    price = Column(Float)
+    currency = Column(String)
+
+   # Add the UniqueConstraint to enforce uniqueness on vehicle_id and date
+    __table_args__ = (
+        UniqueConstraint('vehicle_id', 'date', name='uq_vehicle_date'),
+    )
+    
+    # Establish relationship back to Vehicle
+    vehicle = relationship(
+        "Vehicle",
+        back_populates="booking_details"
     )
