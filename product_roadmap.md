@@ -133,3 +133,15 @@ Exmple data result
 
 ## Extracting car occupancy and pricing history
 
+1. gather the vehicle IDs that are active
+  - call turo's  /api/vahicle/datail?vehicleId=<vehicleId> and extract fields "vehicleStatus", "numberOfRentals"
+
+2. get listing start date for all listing where we dont know this info
+  - from vehicles table get cars that have listing_created_date field as null
+   
+3. check that number of trips has not changed (now we have the start date on all active listings in db.)
+  - from booking_summaries get latest trip_count for all cars in population
+
+4. pull occupancy data for all the cars that have had changes in trip_counts between results in /api/vahicle/datail?vehicleId=<vehicleId> and database 
+  - if the car has never had an occupancy scrape then start from the listing_creation_date
+  - else start from the last listing_details_scrape_date

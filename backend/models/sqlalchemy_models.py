@@ -44,6 +44,8 @@ class Vehicle(Base, AuditableRow):
     car_year = Column(Integer)
     
     listing_created_date = Column(Date, nullable=True)
+    listing_active = Column(Boolean, nullable=True)
+    listing_details_scrape_date = Column(Date, nullable=True)
 
     location_city = Column(String)
     location_state = Column(String)

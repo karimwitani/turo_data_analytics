@@ -1,0 +1,19 @@
+{
+  "calendarCurrencyHeader": "All prices are in CAD",
+  "dailyPricingResponses": [
+      {
+          "custom": false,
+          "date": "2021-08-01",
+          "localizedDayOfWeek": "Sunday",
+          "localizedShortDayOfWeek": "Sun",
+          "price": 68.0,
+          "priceEditable": true,
+          "priceWithCurrency": {
+              "amount": 68.0,
+              "currencyCode": "CAD"
+          },
+          "source": "DEFAULT",
+          "wholeDayUnavailable": false
+      }
+    ]
+  }

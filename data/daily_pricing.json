@@ -1,0 +1,6137 @@
+{
+    "calendarCurrencyHeader": "All prices are in CAD",
+    "dailyPricingResponses": [
+        {
+            "custom": false,
+            "date": "2022-08-01",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-02",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-03",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-04",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-05",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-06",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-07",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-08",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-09",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-10",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-11",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-12",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-13",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-14",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-15",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-16",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-17",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-18",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-19",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-20",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-21",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-22",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-23",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-24",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-25",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-26",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-27",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-28",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-29",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-30",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-08-31",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-01",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-02",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-03",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-04",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-05",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-06",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-07",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-08",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-09",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-10",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-11",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-12",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-13",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-14",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-15",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-16",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-17",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-18",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-19",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-20",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-21",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-22",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-23",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-24",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-25",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-26",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-27",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-28",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-29",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-09-30",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-01",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-02",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-03",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-04",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-05",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-06",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-07",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-08",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": false,
+            "date": "2022-10-09",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-10",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-10-11",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-10-12",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-13",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-10-14",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-15",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-16",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-10-17",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-10-18",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-10-19",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-10-20",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-10-21",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-22",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-10-23",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": false,
+            "date": "2022-10-24",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": false,
+            "date": "2022-10-25",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": false,
+            "date": "2022-10-26",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": false,
+            "date": "2022-10-27",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": false,
+            "date": "2022-10-28",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-10-29",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-10-30",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-10-31",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-11-01",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-02",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-03",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-04",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-11-05",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-11-06",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-07",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 60.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 60.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-08",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 60.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 60.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-09",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 60.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 60.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-10",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 60.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 60.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-11",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 60.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 60.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-12",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 60.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 60.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-11-13",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 60.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 60.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-14",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-15",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-16",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-11-17",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-11-18",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-19",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-20",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-21",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 67.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 67.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-22",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-23",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-11-24",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 60.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 60.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-25",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-26",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-11-27",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-11-28",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-29",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-11-30",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-01",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2022-12-02",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-03",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-04",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-05",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-06",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-07",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-08",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-09",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-10",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-11",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-12",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-13",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-14",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-15",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-16",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-17",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-18",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-19",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-20",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-21",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-22",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-23",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 60.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 60.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-24",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-25",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-12-26",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-27",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2022-12-28",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 76.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 76.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-29",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-30",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2022-12-31",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-01",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-01-02",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-01-03",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-04",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 76.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 76.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-05",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 72.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 72.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-06",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 76.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 76.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-07",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 76.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 76.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-08",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-09",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-10",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-11",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-12",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-13",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-14",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-01-15",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-01-16",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-17",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-18",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-19",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-20",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 76.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 76.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-21",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-22",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-23",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-24",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 72.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 72.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-25",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 72.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 72.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-26",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 72.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 72.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-27",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-01-28",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2023-01-29",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2023-01-30",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": false,
+            "date": "2023-01-31",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "DEFAULT",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-01",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-02",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-03",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-04",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-05",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-06",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-07",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-08",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-09",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-10",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-11",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-12",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-13",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-14",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-15",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-16",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-17",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-18",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-19",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-20",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-21",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-22",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 69.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 69.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-23",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-24",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-25",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-02-26",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-02-27",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 69.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 69.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-02-28",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 55.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 55.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-01",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-02",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-03",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-04",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-05",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-06",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-07",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-08",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-09",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-10",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-11",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-12",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-03-13",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-14",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-15",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 71.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 71.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-16",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-17",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-18",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-03-19",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-03-20",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-21",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 77.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 77.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-22",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-23",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-24",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-03-25",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-03-26",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-03-27",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-28",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-29",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-30",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-03-31",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-01",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 85.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 85.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-02",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 85.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 85.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-03",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 78.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 78.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-04",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-05",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-06",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 78.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 78.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-07",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-08",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-04-09",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-10",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 85.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 85.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-11",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 60.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 60.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-12",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-13",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-14",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-15",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-16",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-17",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-18",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 55.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 55.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-19",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 55.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 55.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-20",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-21",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-22",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-23",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-24",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-25",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-26",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-04-27",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-04-28",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-29",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-04-30",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 50.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 50.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-01",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-02",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-03",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-04",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-05",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-06",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 59.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 59.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-07",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 59.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 59.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-08",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-09",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-10",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-05-11",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-12",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 74.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 74.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-13",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-14",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-15",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-16",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-05-17",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-18",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 74.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 74.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-19",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 74.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 74.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-20",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-21",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-05-22",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-05-23",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-24",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-25",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-26",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-27",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-05-28",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-29",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 95.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 95.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-30",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-05-31",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 79.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 79.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-01",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-02",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-03",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 105.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 105.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-04",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-05",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 85.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 85.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-06",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 85.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 85.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-07",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 79.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 79.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-08",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 79.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 79.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-09",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 95.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 95.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-10",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 95.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 95.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-06-11",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 95.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 95.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-06-12",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 79.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 79.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-13",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-14",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-15",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 95.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 95.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-16",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 95.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 95.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-17",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 95.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 95.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-18",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 95.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 95.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-19",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-06-20",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-06-21",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-06-22",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-06-23",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-06-24",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-06-25",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-06-26",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-06-27",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-06-28",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-06-29",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-06-30",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-01",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-02",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-03",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-04",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-05",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-06",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-07",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-08",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-09",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-10",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-11",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-12",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-13",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-14",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-15",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-16",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-17",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-18",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 20.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 20.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-19",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-20",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 85.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 85.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-07-21",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-07-22",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-23",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 135.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 135.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-24",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-25",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-07-26",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-27",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-07-28",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 117.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 117.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-07-29",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 117.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 117.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-07-30",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 117.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 117.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-07-31",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 110.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 110.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-01",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 89.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 89.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-02",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 79.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 79.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-03",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 110.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 110.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-04",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 85.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 85.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-05",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-06",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 120.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 120.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-07",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 95.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 95.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-08",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-09",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-10",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-11",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 105.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 105.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-12",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 125.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 125.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-13",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 105.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 105.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-14",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 200.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 200.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-15",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-16",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 88.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 88.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-17",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 85.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 85.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-18",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-08-19",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 105.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 105.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-20",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 89.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 89.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-21",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-22",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-23",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 95.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 95.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-24",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-25",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-26",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-27",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-28",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 84.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 84.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-29",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-30",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-08-31",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 200.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 200.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-01",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-02",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-09-03",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 120.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 120.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-04",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 85.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 85.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-09-05",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-06",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-09-07",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 80.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 80.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-09-08",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 86.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 86.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-09-09",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 86.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 86.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-09-10",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 86.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 86.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-11",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-12",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-13",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-14",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 73.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 73.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-15",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 73.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 73.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-09-16",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 73.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 73.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-09-17",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 73.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 73.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-09-18",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 73.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 73.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-09-19",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 73.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 73.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-09-20",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 73.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 73.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-09-21",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-22",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-23",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-24",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 90.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 90.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-25",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 355.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 355.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-26",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 355.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 355.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-27",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 355.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 355.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-28",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 200.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 200.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-29",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-09-30",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-10-01",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 70.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 70.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-10-02",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-10-03",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-10-04",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-10-05",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 100.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 100.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-10-06",
+            "localizedDayOfWeek": "Friday",
+            "localizedShortDayOfWeek": "Fri",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-10-07",
+            "localizedDayOfWeek": "Saturday",
+            "localizedShortDayOfWeek": "Sat",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-10-08",
+            "localizedDayOfWeek": "Sunday",
+            "localizedShortDayOfWeek": "Sun",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-10-09",
+            "localizedDayOfWeek": "Monday",
+            "localizedShortDayOfWeek": "Mon",
+            "price": 75.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 75.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": true
+        },
+        {
+            "custom": true,
+            "date": "2023-10-10",
+            "localizedDayOfWeek": "Tuesday",
+            "localizedShortDayOfWeek": "Tue",
+            "price": 68.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 68.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-10-11",
+            "localizedDayOfWeek": "Wednesday",
+            "localizedShortDayOfWeek": "Wed",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        },
+        {
+            "custom": true,
+            "date": "2023-10-12",
+            "localizedDayOfWeek": "Thursday",
+            "localizedShortDayOfWeek": "Thu",
+            "price": 65.0,
+            "priceEditable": true,
+            "priceWithCurrency": {
+                "amount": 65.0,
+                "currencyCode": "CAD"
+            },
+            "source": "OWNER",
+            "wholeDayUnavailable": false
+        }
+    ]
+}
